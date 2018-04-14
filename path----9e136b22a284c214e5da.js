@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{106:function(e,l){e.exports={data:{allWordpressWpApiMenusMenusItems:{edges:[{node:{id:"529f2488-cdf8-5edd-a0b7-ea4ba53f525c",name:"Main menu",items:[{title:"Sample Page",url:"/sample-page",object_slug:"sample-page"},{title:"Homepage",url:"/",object_slug:"homepage"},{title:"Hello",url:"/post/hello-world",object_slug:"hello"}]}}]}},layoutContext:{}}}});
+//# sourceMappingURL=path----9e136b22a284c214e5da.js.map
